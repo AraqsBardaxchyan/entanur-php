@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<users>
+<user><id>1</id><firstname>Arshik</firstname><lastname>Hovhannisyan</lastname><username>test</username><email>admin@admin.com</email><password>698d51a19d8a121ce581499d7b701668</password><avatar>5dea38450961dpretty-faces-images.jpg</avatar></user><user><id>2</id><firstname>Arshik</firstname><lastname>Hovsepyan</lastname><username>test</username><email>sh-ar@mail.ru</email><password>bcbe3365e6ac95ea2c0343a2395834dd</password><avatar>5dea364f1d2b7291332564027211.png</avatar></user><user><id>3</id><firstname>Ruben</firstname><lastname>Abelyan</lastname><username>Ruben</username><email>ru.abelyan@mail.ru</email><password>b59c67bf196a4758191e42f76670ceba</password><avatar>5dea23f4e6fc3lg.png</avatar></user></users>

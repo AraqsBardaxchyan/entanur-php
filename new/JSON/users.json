@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "firstname": "Arshik",
+        "lastname": "Hovhannisyan",
+        "username": "arsh",
+        "email": "arsh@gmail.com",
+        "password": "bcbe3365e6ac95ea2c0343a2395834dd",
+        "avatar": "5deba2e9d635d291332564027211.png"
+    },
+    {
+        "id": 2,
+        "firstname": "Arshik",
+        "lastname": "Hovhannisyan",
+        "username": "valod",
+        "email": "arsh@gmail.com",
+        "password": "698d51a19d8a121ce581499d7b701668",
+        "avatar": "sample.png"
+    }
+]

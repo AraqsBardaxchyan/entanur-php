@@ -1,0 +1,1 @@
+<h1>This is Home.php view</h1>
